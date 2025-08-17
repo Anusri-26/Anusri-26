@@ -6,21 +6,45 @@
 
 ---
 
-### 🔍 My Public Projects
-- 🎬 **[CineStack](https://github.com/Anusri-26/CineStack)** – A Netflix-inspired web app with a custom **MyList** feature, built using React, Firebase, HTML, CSS, and JavaScript  
-- 🎯 **[HR_Attrition_Predictor](https://github.com/Anusri-26/HR_Attrition_Predictor)** – Predicts employee attrition using ML with interactive Streamlit dashboards  
-- 💸 **[loan_recover_ai](https://github.com/Anusri-26/loan_recover_ai)** – A machine learning model for predicting loan recovery patterns  
-- 🛍️ **[amazon_clone_frontend](https://github.com/Anusri-26/amazon_clone_frontend)** – A simple Amazon-like front-end built using HTML and CSS  
-- 🧪 **[JavaFSE-DigitalNurture4.0-Exercises](https://github.com/Anusri-26/JavaFSE-DigitalNurture4.0-Exercises)** – Java exercises from Cognizant's Digital Nurture training  
-- 🔬 **[Classification_Of_ESD](https://github.com/Anusri-26/Classification_Of_ESD)** – A classification project for detecting Electrostatic Discharge anomalies  
+## 🔍 My Public Projects
+
+### 🎬 CineStack
+- A Netflix-inspired web app with a custom MyList feature  
+- **Tech Stack:** React, Firebase, HTML, CSS, JavaScript  
+
+### 🎯 HR_Attrition_Predictor
+- Predicts employee attrition using machine learning with interactive **Streamlit dashboards**  
+- **Tech Stack:** Python, ML, Streamlit  
+
+### 💸 loan_recover_ai
+- Predicts loan recovery patterns using machine learning models  
+- **Tech Stack:** Python, ML  
+
+### 🛍️ amazon_clone_frontend
+- A simple Amazon-like front-end built for practice  
+- **Tech Stack:** HTML, CSS  
+
+### 🧪 JavaFSE-DigitalNurture4.0-Exercises
+- Collection of Java exercises from Cognizant Digital Nurture training  
+- **Tech Stack:** Java  
+
+### 🔬 Classification_Of_ESD
+- Detects Electrostatic Discharge anomalies using classification techniques  
+- **Tech Stack:** Python, ML  
+
+### 📰 AI News Aggregator
+- Spring Boot application that aggregates news from multiple sources with **AI-driven automatic category generation**  
+- **Backend:** Spring Boot, MySQL/H2  
+- **Frontend:** Thymeleaf + Bootstrap  
+- **Key Features:** CRUD operations, pagination, search, AI-based categorization, REST APIs  
 
 ---
 
-### 🌱 Currently Exploring
-
-- Backend with Spring Boot  
+## 🌱 Currently Exploring
+- Backend development with Spring Boot  
 - Advanced Machine Learning Techniques  
-- Building full-stack web applications
+- Full-stack web application development  
+
 
 ---
 
